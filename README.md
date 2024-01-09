@@ -1,5 +1,5 @@
-# extra
-🎯 CURSOS
+# 🎯 CURSOS
+
 
 Full-stack - SENAI (670 horas) [https://sp.senaiead.senai.br/#home]
 
